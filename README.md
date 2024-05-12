@@ -1,5 +1,5 @@
 ### Olá, eu dou Mário Lúcio🦾
-[![Blog](	https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://cognicao.online)](https://cognicao.online/)
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website http://cognicao.online)](https://cognicao.online/)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rio-l%C3%BAcio-24112a1a2/)
 
